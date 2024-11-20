@@ -1,5 +1,6 @@
 #include <string>
 #include "DeviceList.h"
+
 class User 
 {
 private:
